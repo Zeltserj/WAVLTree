@@ -1,5 +1,4 @@
-//ornechemia 316295161 Or Nechemia
-//jonathanz1 204331375 Jonathan Zeltser
+
 public class WAVLTree {
 
 	private WAVLNode root;
